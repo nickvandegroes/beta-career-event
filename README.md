@@ -1,5 +1,12 @@
 # bunq Beta Career Event 
 
+## Getting started
+- Clone this repository
+- ```composer install```
+- ```./vendor/bin/sail up```
+- Typie typie!
+
+## Projects
 Possible projects:
 
 If "outside interactions" such as incoming or outgoing payments are required for your idea,
